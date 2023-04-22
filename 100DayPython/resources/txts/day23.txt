@@ -1,0 +1,6 @@
+What's your name?
+My name's Nhat
+How old are you?
+22
+What's your major?
+IT
